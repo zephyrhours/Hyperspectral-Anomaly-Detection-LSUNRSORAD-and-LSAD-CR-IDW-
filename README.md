@@ -1,7 +1,9 @@
 # Hyperspectal-Anomaly-Detection:
 This is the matlab code for hyperspectral anomaly detection (LSAD-CR-IDW and LSUNRSORAD algorithms)
 
-For more information of this project, please refer to our paper: [Kun Tan, Zengfu Hou, Fuyu Wu,Qian Du, and Yu Chen. Anomaly Detection for Hyperspectral Imagery Based on the Regularized Subspace Method and Collaborative Representation. Remote Sensing 2019.](https://www.mdpi.com/2072-4292/11/11/1318) [Co-first author]
+For more information of this project, please refer to our paper: 
+
+[Kun Tan, Zengfu Hou, Fuyu Wu,Qian Du, and Yu Chen. Anomaly Detection for Hyperspectral Imagery Based on the Regularized Subspace Method and Collaborative Representation. Remote Sensing 2019.](https://www.mdpi.com/2072-4292/11/11/1318) [Co-first author]
 
 # Prerequisites:
 matlab R2018b
