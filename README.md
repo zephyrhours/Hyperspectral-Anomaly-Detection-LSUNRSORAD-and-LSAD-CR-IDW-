@@ -1,4 +1,4 @@
-# Anomaly Detection for Hyperspectral Imagery Based on the Regularized Subspace Method and Collaborative Representation:
+# Anomaly Detection for Hyperspectral Imagery Based on the Regularized Subspace Method and Collaborative Representation
 This is the matlab code for hyperspectral anomaly detection (LSAD-CR-IDW and LSUNRSORAD algorithms)
 
 For more information of this project, please refer to our paper: 
