@@ -14,12 +14,6 @@ Fig.1. AUC values of different window sizes in the Salinas dataset
 
 
 
-
-
-
-
-
-
 # Citation
 If these codes and dataset are helpful for you, please cite this paper:
 
