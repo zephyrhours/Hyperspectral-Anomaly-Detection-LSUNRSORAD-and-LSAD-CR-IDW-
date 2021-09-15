@@ -8,6 +8,18 @@ For more information of this project, please refer to our paper:
 # Prerequisites
 matlab R2018b
 
+
+<img src="Figure8.tif" alt="Figure8">
+Fig.1. AUC values of different window sizes in the Salinas dataset
+
+
+
+
+
+
+
+
+
 # Citation
 If these codes and dataset are helpful for you, please cite this paper:
 
