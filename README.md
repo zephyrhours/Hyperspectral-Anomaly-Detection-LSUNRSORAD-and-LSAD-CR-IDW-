@@ -9,7 +9,7 @@ For more information of this project, please refer to our paper:
 matlab R2018b
 
 
-<img src="Figure8.tif" alt="Figure8">
+<img src="WinSize_Salinas.png" alt="WinSize_Salinas">
 Fig.1. AUC values of different window sizes in the Salinas dataset
 
 
