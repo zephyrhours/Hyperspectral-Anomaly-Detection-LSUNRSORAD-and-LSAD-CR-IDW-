@@ -57,4 +57,4 @@ Tan, K., Hou, Z., Wu, F., Du, Q. and Chen, Y., 2019. Anomaly detection for hyper
 2.Chinese CSDN Blog: [https://blog.csdn.net/NBDwo](https://blog.csdn.net/NBDwo)
 
 # Contact
-**Email:** zengf.hou@bit.edu.cn
+**Email:** <a href="http://scr.im/hzfrs">z...@1...6.com</a>
